@@ -96,7 +96,7 @@ class BST:
         return node
 
 
-#In order to run this project, you have to create the object:
+#In order to run this project, first you have to create the object:
 
 #tree = BST()
 
