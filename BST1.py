@@ -43,7 +43,6 @@ class BST:
         return False
 
 
-    # -------- MINIMUM --------
     def minimum(self):
         current = self.root
         if current is None:
